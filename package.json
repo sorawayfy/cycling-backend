@@ -14,7 +14,7 @@
     "@strapi/plugin-seo": "^1.8.0",
     "@strapi/plugin-users-permissions": "4.10.1",
     "@strapi/strapi": "4.10.1",
-    "better-sqlite3": "8.0.1",
+    "better-sqlite3": "^8.4.0",
     "pg": "^8.10.0",
     "strapi-plugin-responsive-image": "^1.0.1",
     "strapi-plugin-vercel-deploy": "^1.4.0"
